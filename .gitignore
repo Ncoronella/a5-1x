@@ -1,0 +1,5 @@
+Analysis/NISTTOOL
+Analysis/runs
+*.
+*.pyc
+*.bin
