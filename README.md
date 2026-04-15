@@ -1,3 +1,5 @@
+### Read Analysis/analysisReadme for attack details
+
 # Verilog Implementation of A5/1 and modified A5/1 stream ciphers.
 
 We implement both A5/1 verbatim and a modified version of A5/1 with the intention
