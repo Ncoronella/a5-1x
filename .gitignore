@@ -2,3 +2,4 @@ Analysis/NISTTOOL/sts-2.1.2/experiments
 Analysis/runs
 *.
 *.pyc
+*.c
