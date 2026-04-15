@@ -1,0 +1,1 @@
+This folder, Analysis, provides scrap code used to analyze the cipher using NIST tools. No notable discoveries were found that were not already disclosed by the design group, so this code was never cleaned up or mentioned in reports.
